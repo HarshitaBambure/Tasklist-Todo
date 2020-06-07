@@ -198,10 +198,11 @@ class MainActivity : AppCompatActivity() {
             AdapterView.OnItemLongClickListener { parent, view, position, id ->
                 alertDialog =
                     showDialog(
-                        getString(R.string.title_dialog),
-                        getString(R.string.msg_update_Status),
-                        getString(R.string.txt_delete),
-                        getString(R.string.txt_change_task_status)
+                        msg =  getString(R.string.msg_update_Status),
+                        title =  getString(R.string.title_dialog),
+                        btnCancel = getString(R.string.txt_change_task_status),
+                        btnok = getString(R.string.txt_delete)
+
                     ) { isDelete ->
                         if (isDelete) {
                             modifyItemState(

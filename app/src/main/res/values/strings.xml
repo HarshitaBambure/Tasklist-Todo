@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Tasklist-Todo</string>
+    <string name="app_name">Save Notes</string>
     <string name="add_task_button">Add Task</string>
     <string name="title_dialog">Do Action</string>
     <string name="title_long_press">Long Press On Item</string>
