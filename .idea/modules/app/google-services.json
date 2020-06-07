@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "783864436852",
+    "firebase_url": "https://tasklist-todo-98107.firebaseio.com",
+    "project_id": "tasklist-todo-98107",
+    "storage_bucket": "tasklist-todo-98107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783864436852:android:8f06926d286c471ebb9921",
+        "android_client_info": {
+          "package_name": "android.example.tasklist_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783864436852-t90gg5aue58rbhtdg34ch2ojkdtp8ujn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.example.tasklist_todo",
+            "certificate_hash": "a74ae7c5f5f40ec7e2e011ea64e056db2eb016ac"
+          }
+        },
+        {
+          "client_id": "783864436852-vknonplniql99eua1og2s1ad8f4t3rgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC76JB1kvNKQSsfOL_l_gQi3m5iP-laA2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783864436852-vknonplniql99eua1og2s1ad8f4t3rgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

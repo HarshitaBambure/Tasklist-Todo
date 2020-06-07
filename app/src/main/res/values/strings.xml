@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tasklist-Todo</string>
+    <string name="add_task_button">Add Task</string>
+    <string name="title_dialog">Do Action</string>
+    <string name="title_long_press">Long Press On Item</string>
+    <string name="msg_delete_update">Long Press On Item To Delete or Update</string>
+    <string name="msg_save">Item Saved</string>
+    <string name="msg_add_item">Add New Item</string>
+    <string name="msg_enter_item_text">Enter To Do Item Text</string>
+    <string name="msg_submit">Submit</string>
+    <string name="msg_note_cant_empty">Note Can not be Empty</string>
+    <string name="msg_add_note">Click Here to Add Note...</string>
+    <string name="click_here">Click here</string>
+    <string name="msg_update_Status"><![CDATA[Please click Delete to delete & Update to Change Status]]></string>
+    <string name="txt_change_task_status">Change Task Status</string>
+    <string name="txt_delete">Delete</string>
+</resources>
